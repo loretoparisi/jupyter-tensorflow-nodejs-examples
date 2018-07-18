@@ -14,5 +14,8 @@ npm install
 ## How to Run
 Launch nteract and open the `HelloWorldTensorflowNteract.ipynb` example. Now you can just run all cells from __Cell > Run All__ or you can run a __Cell__ one by one using the play button.
 
+## Demo
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/163333/42903721-06d28892-8ad3-11e8-8acd-c20e69ba53c2.gif)
+
 ## Disclaimer
 Enjoy!
